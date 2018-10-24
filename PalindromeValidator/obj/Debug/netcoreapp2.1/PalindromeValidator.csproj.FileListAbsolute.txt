@@ -1,0 +1,16 @@
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.deps.json
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.runtimeconfig.json
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.runtimeconfig.dev.json
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.dll
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.pdb
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\obj\Debug\netcoreapp2.1\PalindromeValidator.csprojAssemblyReference.cache
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\obj\Debug\netcoreapp2.1\PalindromeValidator.csproj.CoreCompileInputs.cache
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\obj\Debug\netcoreapp2.1\PalindromeValidator.AssemblyInfoInputs.cache
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\obj\Debug\netcoreapp2.1\PalindromeValidator.AssemblyInfo.cs
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\obj\Debug\netcoreapp2.1\PalindromeValidator.dll
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\obj\Debug\netcoreapp2.1\PalindromeValidator.pdb
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.Abstractions.dll
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.Core.dll
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.Abstractions.pdb
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\bin\Debug\netcoreapp2.1\PalindromeValidator.Core.pdb
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator\obj\Debug\netcoreapp2.1\PalindromeValidator.csproj.CopyComplete

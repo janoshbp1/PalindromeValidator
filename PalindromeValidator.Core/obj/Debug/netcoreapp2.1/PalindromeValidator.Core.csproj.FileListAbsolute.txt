@@ -1,0 +1,12 @@
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\bin\Debug\netcoreapp2.1\PalindromeValidator.Core.deps.json
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\bin\Debug\netcoreapp2.1\PalindromeValidator.Core.dll
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\bin\Debug\netcoreapp2.1\PalindromeValidator.Core.pdb
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\bin\Debug\netcoreapp2.1\PalindromeValidator.Abstractions.dll
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\bin\Debug\netcoreapp2.1\PalindromeValidator.Abstractions.pdb
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\obj\Debug\netcoreapp2.1\PalindromeValidator.Core.csprojAssemblyReference.cache
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\obj\Debug\netcoreapp2.1\PalindromeValidator.Core.csproj.CoreCompileInputs.cache
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\obj\Debug\netcoreapp2.1\PalindromeValidator.Core.AssemblyInfoInputs.cache
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\obj\Debug\netcoreapp2.1\PalindromeValidator.Core.AssemblyInfo.cs
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\obj\Debug\netcoreapp2.1\PalindromeValidator.Core.csproj.CopyComplete
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\obj\Debug\netcoreapp2.1\PalindromeValidator.Core.dll
+C:\Users\JPurackal\source\repos\PalindromeValidator\PalindromeValidator.Core\obj\Debug\netcoreapp2.1\PalindromeValidator.Core.pdb
